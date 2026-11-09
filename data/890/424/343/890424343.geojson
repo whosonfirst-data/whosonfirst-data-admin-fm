@@ -128,7 +128,7 @@
     "wof:concordances_official":"hasc:id",
     "wof:country":"FM",
     "wof:created":1469051540,
-    "wof:geomhash":"4e132ba29aa25ae59b6e5f6be91b1bad",
+    "wof:geomhash":"1fb4861f9250773ecf30269abdb1ce24",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -155,5 +155,5 @@
     154.76,
     1.067
 ],
-  "geometry": {"coordinates":[154.75999999999999,1.067],"type":"Point"}
+  "geometry": {"coordinates":[154.76,1.067],"type":"Point"}
 }

@@ -91,7 +91,7 @@
     },
     "wof:country":"FM",
     "wof:created":1469050984,
-    "wof:geomhash":"ccbe052ea89868df290e57fc408c8fe2",
+    "wof:geomhash":"e4a27a10843a37b69456a44b3d4ee937",
     "wof:hierarchy":[
         {
             "country_id":85632431,
@@ -116,5 +116,5 @@
     150.0,
     8.725
 ],
-  "geometry": {"coordinates":[150.0,8.725],"type":"Point"}
+  "geometry": {"coordinates":[150,8.725],"type":"Point"}
 }

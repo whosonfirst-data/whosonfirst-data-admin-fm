@@ -60,7 +60,7 @@
         "wk:page":"Malem%2C_Kosrae"
     },
     "wof:country":"FM",
-    "wof:geomhash":"7b016817e2bebaae84480f0afe4edc8f",
+    "wof:geomhash":"88fca7e7349fc6ae41cc2766c46d2c25",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -85,5 +85,5 @@
     163.02608999999995,
     5.28599
 ],
-  "geometry": {"coordinates":[163.02608999999995,5.28599],"type":"Point"}
+  "geometry": {"coordinates":[163.02609,5.28599],"type":"Point"}
 }

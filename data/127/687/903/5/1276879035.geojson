@@ -47,7 +47,7 @@
         "gn:id":1558906
     },
     "wof:country":"FM",
-    "wof:geomhash":"56c8311c17fce091e00bdb64fc2fa2e5",
+    "wof:geomhash":"d860f5432669489a931508095824cea9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,5 +72,5 @@
     138.11046000000002,
     9.51683
 ],
-  "geometry": {"coordinates":[138.11046000000002,9.51683],"type":"Point"}
+  "geometry": {"coordinates":[138.11046,9.51683],"type":"Point"}
 }
